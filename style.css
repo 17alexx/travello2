@@ -1,0 +1,88 @@
+header{
+    margin: 20px;
+    background-color: rgb(24 24 24 / 60%);
+   }
+
+.starting{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+}
+.menu ul{
+    display: flex;
+ list-style: none;
+ gap: 20px;
+}
+.menu ul li a{
+    text-decoration: none;
+    display: flex;
+    color: beige;
+}
+.logo h3{
+    font-size: x-large;
+    color: beige;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contact h4{
+    color: beige;
+}
+.left1{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    padding: 30px;
+    gap: 20px;
+   box-sizing: content-box;
+ 
+}
+.img{
+    width: 400px;
+}
+.img1 img{
+    width: 100%;
+}
+.first1{
+    font-size: x-large;
+    font-weight: 700;
+}
+.second-text a{
+    text-decoration: none;
+    color: black;
+    font-size: xx-large;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.small-text ul li a{
+    text-decoration: none;
+    color: #8f8f8f;
+    
+}
+.small-text ul{
+    list-style: none;
+}
+.paragraf p{
+    color: #8f8f8f;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+.middle{
+display: flex;
+gap: 25px ;
+
+
+}
+.right-side{
+    background-image: url(https://preview.colorlib.com/theme/travello/images/travello.jpg.webp);
+    width: 40%;
+    height: 100vh;
+}
+.onpic{
+text-align: center;
+margin-top: 80vh;
+font-size: 150%;
+color: white;
+background-color: palevioletred;
+}
+
+
